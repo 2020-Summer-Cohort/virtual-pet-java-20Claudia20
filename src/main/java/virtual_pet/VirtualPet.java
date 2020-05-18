@@ -1,29 +1,13 @@
 package virtual_pet;
 
 public class VirtualPet {
-    void tick(){
-
-    }
-
-    void getHunger(){
-
-    }
-
-    void getThirst(){
+    private int hunger;
+    private int thirst;
+    private int waste;
+    private int boredom;
+    private int sickness;
 
 
-    }
-    void getWaste(){
 
-    }
-
-    void getBoredom(){
-
-    }
-
-    void getPlay(){
-
-    }
-    void get
 
 }
