@@ -1,7 +1,27 @@
 package virtual_pet;
 
 public class VirtualPet {
-    // create a tick method here
+    void tick(){
+
+    }
+
+    void getHunger(){
+
+    }
+
+    void getThirst(){
+
+    }
+
+    void getBoredom(){
+
+    }
+
+    void getPlay(){
+
+    }
+
+
 
     // create 3 instance variables that represent attributes that update when tick is called
     // example, hunger increasing, boredom decreasing
