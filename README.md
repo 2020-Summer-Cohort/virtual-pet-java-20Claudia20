@@ -19,5 +19,3 @@ User will select activity
 
 
 
-commit 203db78de25f52da4eb3b016c90bde804e0f9944
-commit 
